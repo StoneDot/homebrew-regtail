@@ -1,8 +1,8 @@
 class Regtail < Formula
   desc "Regex base tail written in Rust"
   homepage "https://github.com/StoneDot/regtail"
-  url "https://github.com/StoneDot/regtail/archive/v0.0.1.tar.gz"
-  sha256 "9bcaf304afc4d4348c0240c700e9b211e9db341e5773aac8c42a72730c4bdace"
+  url "https://github.com/StoneDot/regtail/archive/v0.0.2.tar.gz"
+  sha256 "199852f842ca5b389845554d271655adf978c01c5c99f95ab664476a85fbb0c7"
   depends_on "rust" => :build
   head "https://github.com/StoneDot/regtail.git"
 
