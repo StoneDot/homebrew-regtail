@@ -12,6 +12,6 @@ class Regtail < Formula
   end
 
   test do
-    ripgrep --version
+    regtail --version
   end
 end
